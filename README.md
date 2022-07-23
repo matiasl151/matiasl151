@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matiasl151
-- 👀 I’m interested in Python, Ruby, Javascript
-- 🌱 I’m currently learning Angular and Svelte
-- 💞️ I’m looking to collaborate on Python
+- 👀 I’m interested in Python, Ruby, Javascript, Typescript
+- 🌱 I’m currently learning Typescript with Angular and Svelte
+- 💞️ I’m looking to collaborate on Python or Typescript
 - 📫 How to reach me matiaslucero9815@gmail.com
 
 <!---
